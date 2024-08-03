@@ -110,8 +110,8 @@ the consequences for any action they deem in violation of this Code of Conduct:
   
   **Consequence**: A permanent ban from any sort of public interaction within
   the community.
-
-- ## Attribution
+  
+ ## Attribution
 
     This Code of Conduct is adapted from the [Contributor Covenant][homepage],
     version 2.0, available at
